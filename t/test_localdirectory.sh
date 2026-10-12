@@ -21,7 +21,7 @@ License: MIT
 #!CreateArchive
 Source1:       node_modules.tar.xz
 #!CreateArchive: second_dir
-Source1:       second_dir-0.42.tar.xz
+Source2:       second_dir-0.42.tar.xz
 %description
 test
 %prep
